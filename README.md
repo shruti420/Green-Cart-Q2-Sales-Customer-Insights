@@ -93,3 +93,14 @@ Created new fields:
 📓 Jupyter Notebook (week2-ShrutiDudharkar.ipynb)
 
 📄 Final Report PDF
+
+<img width="564" height="348" alt="image" src="https://github.com/user-attachments/assets/d99405e4-771b-4746-9489-972a3847af3b" />
+
+<img width="564" height="348" alt="image" src="https://github.com/user-attachments/assets/384ecfae-bfab-47a3-be53-d7e09e16ba0c" />
+
+<img width="852" height="420" alt="image" src="https://github.com/user-attachments/assets/30f8a5ec-8cd8-431a-bf9e-159a91802ce5" />
+
+<img width="564" height="348" alt="image" src="https://github.com/user-attachments/assets/e98b6c8a-c8f3-4dae-b2ab-27bcf71f0f61" />
+
+
+
